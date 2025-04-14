@@ -130,7 +130,7 @@ section {
   background-position: center;
   color: #fff;
   text-align: center;
-  padding: 170px 0;
+  padding: 210px 0;
   position: relative;
 }
 
@@ -140,13 +140,13 @@ section {
 }
 
 .hero h1 {
-  font-size: 48px;
+  font-size: 40px;
   margin-bottom: 20px;
   color: #fff;
 }
 
 .hero p {
-  font-size: 20px;
+  font-size: 15px;
   margin-bottom: 30px;
 }
 
